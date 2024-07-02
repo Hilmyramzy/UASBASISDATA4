@@ -4,7 +4,7 @@ Nama : Hilmy Syaddad ramzy
 
 NiM : 312210162
 
-Kelas : TI22A!
+Kelas : TI22A1
 
 Prodi : Teknik Informatika  
 
